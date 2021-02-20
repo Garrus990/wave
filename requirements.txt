@@ -1,7 +1,0 @@
-lightgbm
-psycopg2
-sqlalchemy
-
-prodigal=2.6.3
-hmmer=3.1b2
-sourmash
