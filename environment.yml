@@ -1,0 +1,23 @@
+name: wavemaker
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python
+  - jupyterlab
+  - lightgbm
+  - nbstripout
+  - numpy
+  - pandas
+  - pip
+  - plotnine
+  - requests
+  - scikit-learn
+  - scikit-optimize
+  - seaborn
+  - tqdm
+
+  - pip:
+    - -e .
