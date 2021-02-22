@@ -131,4 +131,3 @@ dmypy.json
 # data
 ./data/*
 !./data/hotel_bookings.csv
-ipynb_checkpoints/*

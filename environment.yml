@@ -14,9 +14,10 @@ dependencies:
   - pip
   - plotnine
   - requests
-  - scikit-learn
+  - scikit-learn=0.23.2  # higher versions have issues with skopt
   - scikit-optimize
   - seaborn
+  - shap
   - tensorflow
   - tqdm
 
